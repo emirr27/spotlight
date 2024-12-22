@@ -1,4 +1,4 @@
-# Spotlight for Astro
+# oylama
 
 This is package is specifically built to add Spotlight to your Astro application with one command.
 
